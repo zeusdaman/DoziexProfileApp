@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DoziexProfileApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Chidozie Akakuru</string>
+    <string name="description">An intermediate android developer and a beginner back-end web developer.</string>
+    <string name="slack">Slack: @doziex</string>
+    <string name="button">Send A Mail</string>
+    <string name="phone_number">07038909269</string>
+</resources>
